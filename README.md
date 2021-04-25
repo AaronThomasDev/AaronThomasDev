@@ -7,13 +7,13 @@
 
 - 🔭 I’m currently working on a [Discord Bot](https://github.com/AaronThomasDev/Discord-Bot)
 
-- 🌱 I’m currently learning **JS packages**
+- 🌱 I’m currently learning **Node and NPM**
 
 - 👯 I’m looking to collaborate on **Anything!**
 
 - 💬 Ask me about **Anything you like**
 
-- 📄 Know about my experiences [Coming soon](Coming soon)
+- 📄 Know about my experiences [My Resume](https://github.com/AaronThomasDev)
 
 - ⚡ Fun fact **I'm an animal lover**
 
