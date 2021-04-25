@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/mannymanatea" target="blank"><img src="https://img.shields.io/twitter/follow/mannymanatea?logo=twitter&style=for-the-badge" alt="mannymanatea" /></a> </p>
 
-- 🔭 I’m currently working on [Discord Bot](https://github.com/AaronThomasDev/Discord-Bot)
+- 🔭 I’m currently working on a [Discord Bot](https://github.com/AaronThomasDev/Discord-Bot)
 
 - 👯 I’m looking to collaborate on **Anything!**
 
