@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on a [Discord Bot](https://github.com/AaronThomasDev/Discord-Bot)
 
-- 🌱 I’m currently learning **Node and NPM**
+- 🌱 I’m currently learning **Express.js**
 
-- 👯 I’m looking to collaborate on **Anything!**
+- 👯 I’m looking to collaborate on **projects that will help change lives**
 
 - 💬 Ask me about **Anything you like**
 
